@@ -38,4 +38,11 @@ fun main() {
 
     println("Quantidade de iteens: ${idades.size}")
     println("Peso do array: ${idades.size * 4} bytes")
+
+    val pares = arrayOf(2,4,6,8)
+    val impares = arrayOf(1,3,5,7)
+
+    val soma = pares.size + impares.size
+
+    println("a soma dos array é: ${soma}")
 }
