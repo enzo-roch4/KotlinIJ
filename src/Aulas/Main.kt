@@ -1,4 +1,4 @@
-//fun main() {
+package Aulas//fun main() {
 //    println("Hello World!")
 //}
 
@@ -17,9 +17,7 @@
 //
 //    println("ola, $nome, sua idade e $idade, email $email, esta ativo?: $status")
 //
-//
 //}
-
 //fun main(){
 //
 //    println("Digite a temperatura:")
@@ -31,7 +29,6 @@
 //    println("A temperatura em celsiu e: $celsius, em fahrenheit $fahrenheit e kelvin $kelvin ")
 //
 //}
-
 //fun main(){
 //
 //    println("Digite a nota da Primeira avaliação:")
@@ -47,13 +44,15 @@
 //    val medidaForatada = String.format("$.2f", media)
 //    println("A media e $media")
 //}
-
 //fun main() {
 //
 //    var nota1 = 7.8
 //    var nota2 = 8.2
 //    var nota3 = 10
 //    var media = (nota1+nota2+nota3)/3
-//
 //    println("A media e $media")
 //}
+
+
+
+
